@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		1E0E43D624B0195400631FF5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0E43D524B0195400631FF5 /* AppDelegate.swift */; };
 		1E0E43D824B0195400631FF5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0E43D724B0195400631FF5 /* SceneDelegate.swift */; };
-		1E0E43DA24B0195400631FF5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0E43D924B0195400631FF5 /* ContentView.swift */; };
 		1E0E43DC24B0195900631FF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0E43DB24B0195900631FF5 /* Assets.xcassets */; };
 		1E0E43DF24B0195900631FF5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0E43DE24B0195900631FF5 /* Preview Assets.xcassets */; };
 		1E0E43E224B0195900631FF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0E43E024B0195900631FF5 /* LaunchScreen.storyboard */; };
@@ -29,7 +28,6 @@
 		1E0E43D224B0195400631FF5 /* UberEats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UberEats.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E0E43D524B0195400631FF5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E0E43D724B0195400631FF5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1E0E43D924B0195400631FF5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1E0E43DB24B0195900631FF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E0E43DE24B0195900631FF5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1E0E43E124B0195900631FF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -78,7 +76,6 @@
 			children = (
 				1E0E43D524B0195400631FF5 /* AppDelegate.swift */,
 				1E0E43D724B0195400631FF5 /* SceneDelegate.swift */,
-				1E0E43D924B0195400631FF5 /* ContentView.swift */,
 				1E0E43DB24B0195900631FF5 /* Assets.xcassets */,
 				1E0E43E024B0195900631FF5 /* LaunchScreen.storyboard */,
 				1E0E43E324B0195900631FF5 /* Info.plist */,
@@ -182,7 +179,6 @@
 				1E0E43FA24B043AA00631FF5 /* LocationsMapView.swift in Sources */,
 				1E0E43EE24B01E8600631FF5 /* UberEatsLogoView.swift in Sources */,
 				1E0E43F624B0396E00631FF5 /* FoodRowView.swift in Sources */,
-				1E0E43DA24B0195400631FF5 /* ContentView.swift in Sources */,
 				1E0E43F424B0373A00631FF5 /* FoodItem.swift in Sources */,
 				1E0E43EA24B0197800631FF5 /* SplashScreenView.swift in Sources */,
 				1E0E43F024B02FC100631FF5 /* MobileScreeningView.swift in Sources */,
