@@ -47,7 +47,7 @@ struct PaymentView: View {
                         )
                     }
                     Button(action: {}) {
-                        Text("Request")
+                        Text("Pay")
                             .frame(width:UIScreen.main.bounds.size.width / 2 - 16 ,height: 48)
                             .foregroundColor(.white)
                             .background(Capsule()
